@@ -1,0 +1,11 @@
+body {
+  font-size: 40pt;
+  text-align: center;
+}
+#tooltip {
+  position: absolute;
+  background: cornsilk;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+}
